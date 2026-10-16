@@ -1,0 +1,4 @@
+{"id":"/supernova-h1/","name":"Supernova H1 — Polymarket Up/Down (papier)","short_name":"Supernova H1",
+"start_url":"/supernova-h1/","scope":"/supernova-h1/","display":"standalone","orientation":"portrait",
+"background_color":"#03030a","theme_color":"#03030a","description":"Bot papier H1 Up/Down BTC ETH SOL — observation en direct",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
